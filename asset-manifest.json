@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/AMBIKAshoppy/static/js/main.26cec858.js",
+    "main.js": "/AMBIKAshoppy/static/js/main.a2c0ea25.js",
     "index.html": "/AMBIKAshoppy/index.html",
-    "main.26cec858.js.map": "/AMBIKAshoppy/static/js/main.26cec858.js.map"
+    "main.a2c0ea25.js.map": "/AMBIKAshoppy/static/js/main.a2c0ea25.js.map"
   },
   "entrypoints": [
-    "static/js/main.26cec858.js"
+    "static/js/main.a2c0ea25.js"
   ]
 }
